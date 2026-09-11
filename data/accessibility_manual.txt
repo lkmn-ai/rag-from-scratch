@@ -1,0 +1,18 @@
+Accessibility Support Guidelines
+
+The ACCESSIBILITY-2024 device supports customers with visual, auditory, motor, and cognitive accessibility requirements.
+
+Environment Requirements:
+Maintain an operating temperature between 0°C and 40°C and humidity between 10% and 90% non-condensing.
+The device can connect through Wi-Fi or Ethernet.
+
+Performance Optimization:
+Use wired Ethernet for critical services when possible. Optimize Wi-Fi channels to reduce interference,
+use quality-of-service settings where appropriate, and limit unnecessary background network usage.
+
+Security:
+Use role-based access control and multi-factor authentication for administrator accounts. Review audit logs regularly.
+
+Warranty:
+The device is covered by a 24-month limited warranty for manufacturing defects and hardware failure under normal use.
+Returns are accepted within 30 days with proof of purchase.
